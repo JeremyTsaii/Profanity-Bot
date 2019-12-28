@@ -1,2 +1,2 @@
-#Profanity Bot
+# Profanity Bot
 
